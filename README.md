@@ -2,7 +2,7 @@
 
 OpenCore EFI For i5-4440
 
-Version - 0.6.3
+Version - 0.6.9
 [OpenCore](https://dortania.github.io/OpenCore-Install-Guide/)
 
 ## Specification
